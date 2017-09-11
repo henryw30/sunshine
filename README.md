@@ -1,3 +1,3 @@
 # sunshine
 
-This app is only intended for learning android app devlopement and not an original creation
+This app is intended for learning android app devlopement
